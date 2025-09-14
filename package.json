@@ -5,7 +5,7 @@
   "main": "./dist/index.js",
   "devDependencies": {
     "@types/bun": "latest",
-    "eslint": "^6.4.0",
+    "eslint": "^9.32.0",
     "standard-version": "^9.5.0",
     "rimraf": "^5.0.7"
   },
